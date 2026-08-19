@@ -42,7 +42,7 @@ x-no-api-surface: true
 x-portfolio-profiles:
 - https://www.dcvc.com/companies/atomic-alchemy/
 - https://www.ycombinator.com/companies/atomic-alchemy
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 tags:
